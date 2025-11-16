@@ -6,4 +6,7 @@ Telco Customer Churn Prediction: project is part of the 2nd year Machine Learnin
 - Decision Tree
 - Neural Network
 ## Structure 
-- 'notebooks/' : Colab notebooks 
+- 'notebooks/' : Colab notebooks
+- 'data/' : datasets
+- 'models/' : trained models
+- 'reports/' : reporting related to project
