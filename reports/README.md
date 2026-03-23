@@ -1,1 +1,1 @@
-This folder will contain teh final report and appendix 
+This folder will contain the final report and appendix 
